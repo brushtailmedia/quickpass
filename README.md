@@ -6,7 +6,7 @@ A single-file, zero-dependency, offline password generator. One HTML file — no
 
 QuickPass is a **deterministic password generator**. Given the same master password + site name, it always produces the same output. Nothing is stored anywhere — no database, no cloud, no local storage. The password is derived on the fly using BLAKE2S and SHA-256, entirely in your browser.
 
-QuickPass originally started as a Python Tkinter desktop app. This version preserves the same core algorithm and deterministic output, rebuilt for the browser. The portable edition — the same tool that ships as a [PWA](../apps/web), [desktop app](../apps/tauri), and [mobile app](../apps/capacitor), packed into a single HTML file you can carry on a USB stick.
+QuickPass originally started as a Python Tkinter desktop app. This version preserves the same core algorithm and deterministic output, rebuilt for the browser. The portable edition — packed into a single HTML file you can carry on a USB stick.
 
 ## How It Works
 
