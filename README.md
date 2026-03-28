@@ -59,10 +59,6 @@ Browsers restrict the modern Clipboard API (`navigator.clipboard`) to secure con
 - **Naming consistency:** The same site name must be entered every time. `github` and `GitHub` produce different passwords (the app lowercases automatically, but trailing spaces or alternate naming won't match).
 - **File integrity:** If someone tampers with this file, the crypto could be altered silently. Verify the source if you didn't download it yourself.
 
-## Generating Consistent Passwords Across Platforms
-
-This file uses the exact same algorithm as every other QuickPass app (web, desktop, mobile). The same master password + site name + settings will produce the same password on any platform.
-
 ## License
 
 MIT. See [LICENSE](../LICENSE).
