@@ -2,6 +2,8 @@
 
 A single-file, zero-dependency, offline password generator. One HTML file — no server, no build step, no install, no database.
 
+> **[Download index.html](index.html)** — click the download raw file button (top right) to save it.
+
 ## What It Is
 
 QuickPass is a **deterministic password generator**. Given the same master password + site name, it always produces the same output. Nothing is stored anywhere — no database, no cloud, no local storage. The password is derived on the fly using BLAKE2S and SHA-256, entirely in your browser.
