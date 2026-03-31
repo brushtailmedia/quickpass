@@ -1,6 +1,6 @@
 # QuickPass — Standalone Deterministic Password Generator
 
-A single-file, zero-dependency, offline password generator. One HTML file — no server, no build step, no install.
+A single-file, zero-dependency, offline password generator. One HTML file — no server, no build step, no install, no database.
 
 ## What It Is
 
