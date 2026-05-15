@@ -1,8 +1,11 @@
-# QuickPass — Standalone Deterministic Password Generator
+# QuickPass — Standalone
 
 A single-file, zero-dependency, offline password generator. One HTML file — no server, no build step, no install, no database.
 
 > **[Download index.html](index.html)** — click the download raw file button (top right) to save it.
+Download pre-built file releases from [Releases](https://github.com/brushtailmedia/quickpass-standalone/releases).
+
+Desktop app version: [brushtailmedia/quickpass-desktop](https://github.com/brushtailmedia/quickpass-desktop)
 
 ## What It Is
 
@@ -63,4 +66,4 @@ Browsers restrict the modern Clipboard API (`navigator.clipboard`) to secure con
 
 ## License
 
-MIT. See [LICENSE](../LICENSE).
+MIT. See [LICENSE](LICENSE).
