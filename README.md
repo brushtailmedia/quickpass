@@ -1,6 +1,6 @@
 # QuickPass — Standalone
 
-A single-file, zero-dependency, offline password generator. One HTML file — no server, no build step, no install, no database.
+A single-file, zero-dependency, fully offline, deterministic password generator. One HTML file — no server, no build step, no install, no database.
 
 > Download pre-built file releases from **[Releases](https://github.com/brushtailmedia/quickpass-standalone/releases)**, or copy/download **[index.html](index.html)** directly — use the download raw file button (top right) to save it.
 
