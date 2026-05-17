@@ -6,6 +6,8 @@ A single-file, zero-dependency, fully offline, deterministic password generator.
 
 Desktop app version: [brushtailmedia/quickpass-desktop](https://github.com/brushtailmedia/quickpass-desktop)
 
+![QuickPass Standalone](docs/images/quickpass-standalone-main.webp)
+
 ## What It Is
 
 QuickPass is a **deterministic password generator**. Given the same master password + site name, it always produces the same output. Nothing is stored anywhere — no database, no cloud, no local storage. The password is derived on the fly using BLAKE2S and SHA-256, entirely in your browser.
